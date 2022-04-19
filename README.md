@@ -16,7 +16,7 @@
 # Start
 Для запуска открываем файл **index.html**.
 # Interface
-<p align="center"><img src="https://i.ibb.co/rHfq3CJ/preview-project.gif" alt="ReviewProject"/></p>
+<p align="center"><img src="https://i.ibb.co/rdcZDWH/preview-project.gif" alt="ReviewProject"/></p>
 <div align="right">
   <img src="https://i.ibb.co/3m5wrjD/icons8-javascript-is-a-high-level-interpreted-programming-language-48.png" alt="js" height="40px"/>
   <img src="https://i.ibb.co/72YpBjg/icons8-css-60.png" alt="css" height="40px"/>
